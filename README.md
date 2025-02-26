@@ -7,6 +7,7 @@ This project is an implementation of an AVL Tree, a self-balancing binary search
 
 Features
 ✅ Insertion & Deletion – Ensures balance with rotations
+
 ✅ Search – Find elements efficiently
 ✅ Tree Traversal & Size Calculation
 ✅ Selection & Rank Operations
